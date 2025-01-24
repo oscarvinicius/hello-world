@@ -11,7 +11,7 @@ _texto em itálico_
 Link:
 [Clique aqui](https://github.com)
 
-### Tabelaa
+### Tabela
 
 | p   | q   | p v q |
 | --- | --- | ----- |
