@@ -13,9 +13,9 @@ Link:
 
 ### Tabela
 
-| p   | q   | p v q |
-| --- | --- | ----- |
-| V   | V   | V     |
-| V   | F   | V     |
-| F   | V   | V     |
-| F   | F   | F     |
+|  p  |  q  | p v q |
+| :-: | :-: | :---: |
+|  V  |  V  |   V   |
+|  V  |  F  |   V   |
+|  F  |  V  |   V   |
+|  F  |  F  |   F   |
