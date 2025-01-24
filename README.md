@@ -10,3 +10,12 @@ _texto em itálico_
 
 Link:
 [Clique aqui](https://github.com)
+
+### Tabelaa
+
+| p   | q   | p v q |
+| --- | --- | ----- |
+| V   | V   | V     |
+| V   | F   | V     |
+| F   | V   | V     |
+| F   | F   | F     |
